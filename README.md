@@ -11,6 +11,10 @@ As a standard all our research datasets are stored in a Flexible Data Model (FDM
 
 # Connected Bradford Ages and Stages Questionaire
 
+> [!WARNING]  
+> THIS information is out of date and subject to review. (20/04/2026)
+> 
+
 Contains the scripts and documentation for an Ages and Stages extract from the existing Bradford District Care Trust data
 
 It contains approximately 31 thousand patients. The dataset has been fully anonymised, but can link to other FDM's.
